@@ -1,0 +1,1 @@
+const calRadius = (deg) => deg * Math.PI / 180
